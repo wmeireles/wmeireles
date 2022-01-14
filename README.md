@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/willian-meireles-01b607194"><i>Willian Meireles</i></a> 😃️🇧🇷</h1>
   <p align="center">Estudo Analise de desenvolveimento de sistemas na <a href="https://www.uninove.br/"><i>Uninove</!></span>
-    ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+   
 
 
     
@@ -33,6 +33,7 @@
   <a href="https://www.facebook.com/willian.meireles.013/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willian-meireles-01b607194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:willianmeireles2021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </div>
 
 <div align="center">
