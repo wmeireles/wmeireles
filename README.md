@@ -1,48 +1,46 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/willian-meireles-01b607194"><i>Willian Meireles</i></a> 😃️🇧🇷</h1>
-  <p align="center">Estudo Analise de desenvolvimento de sistemas na <a href="https://www.uninove.br/"><i>Uninove</!></span>
-   
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
+
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/willian.meireles.013/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/willian_meireles/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/willian-meireles-01b607194)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://open.spotify.com/user/Heimdallr0?fbclid=IwAR0vLf9kXegU7iZNCy3IJ1S6vb3sJ6CRRXelpW5tDOG5trSUGZ8SK4-Yjfg)
+</h4>
+
+<h3 align="center">  <br>
+
+Olá, eu sou o Willian! 🇧🇷
+<br>
+
+</h3>
+
+```
+Estudante de Analise de desenvolvimento de sistemas pela - Uninove, 
+Gosto de Aprender e trocar conhecimento
+```
+## Tecnologias que estou estudando atualmente 💻
+
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Selenium
+  - UX/UI Designer
+  - Bootstrap
+
+## Alguns fatos sobre mim 👨🏻‍💻
 
 
-    
+- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
 
-
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
-
-<div align="center">
-  <a href="https://github.com/wmeireles">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wmeireles&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmeireles&theme=nightowl&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br>
-
-<div align="center">
-  <a href="https://www.instagram.com/willian_meireles/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/willian.meireles.013/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willian-meireles-01b607194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:willianmeireles2021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
-     
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-  ![Alt Text](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-  
-  
-</div>
+- Estou cursando Analise de desenvolvimento de sistemas. 💻
 
 
 
+## Meus dados no Github
+![Anurag's GitHub stats](hhttps://github-readme-stats.vercel.app/api?username=wmeireles&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl&hide_border=false&show_owner=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmeireles&theme=nightowl&hide_border=false&&layout=compact)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
