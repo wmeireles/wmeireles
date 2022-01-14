@@ -33,12 +33,12 @@
   <a href="https://www.facebook.com/willian.meireles.013/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willian-meireles-01b607194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:willianmeireles2021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </div>
 
 <div align="center">
-  
+     ![Alt Text](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
 
