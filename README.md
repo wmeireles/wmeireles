@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/willian-meireles-01b607194"><i>Willian Meireles</i></a> 😃️🇧🇷</h1>
-  <p align="center">Estudo Analise de desenvolveimento de sistemas na <a href="https://www.uninove.br/"><i>Uninove</!></span>
+  <p align="center">Estudo Analise de desenvolvimento de sistemas na <a href="https://www.uninove.br/"><i>Uninove</!></span>
    
 
 
@@ -36,8 +36,10 @@
 </div>
 
 <div align="center">
-     ![Alt Text](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+     
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Alt Text](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
   
   
 </div>
