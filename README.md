@@ -46,5 +46,5 @@ Gosto de Aprender e trocar conhecimento
  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmeireles&theme=nightowl&hide_border=false&&layout=compact)
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
