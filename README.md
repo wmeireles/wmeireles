@@ -2,7 +2,7 @@
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<hr>
+<h4>
 
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/willian.meireles.013/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/willian_meireles/)
@@ -40,10 +40,6 @@ Gosto de Aprender e trocar conhecimento
 
 
 
-<div align="center">
-  <a href="https://github.com/wmeireles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmeireles&theme=nightowl&hide_border=false&&layout=compact)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
