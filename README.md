@@ -26,15 +26,15 @@ Gosto de Aprender e trocar conhecimento
   - HTML
   - CSS
   - JavaScript
+  - Kotlin
+  - TypeScript
+  - Flutter
   - React
-  - Selenium
-  - UX/UI Designer
-  - Bootstrap
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
+- Estou no último semestre de análise de desenvolvimento de sistemas, estou em busca de aprendizado e crescimento dentro da área da tecnologia, no momento trabalho como Analista de service desk e busco trabalhar na área de Front End ou Mobile Developer 😄
 
 - Estou cursando Analise de desenvolvimento de sistemas. 💻
 
