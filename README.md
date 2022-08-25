@@ -20,7 +20,8 @@ Olá, eu sou o Willian!
 </h3>
 
 
- - Estou no último semestre de análise de desenvolvimento de sistemas 💻, estou em busca de aprendizado e crescimento dentro da área da tecnologia, no momento trabalho como Analista de service desk e busco trabalhar na área de Front End ou Mobile Developer 😄
+ Olá, você que chegou até aqui, muito prazer! 
+Me chamo Willian, tenho 21 anos e estou no último semestre de Analise de Desenvolvimento de Sistemas. Eu uso linguagem Front End já uns 4 anos linguagens como HTML, CSS, Javascript, Kotlin, Flutter e UX/UI Design... Já realizei alguns cursos online e projetos, no momento estou aprendo linguagem Mobile como Kotlin e Java e estou gostando muito! Trabalho como Analista de Service Desk, e estou correndo atrás do meu sonho de virar um grande desenvolvedor.😄
 
 ## Tecnologias que estou estudando atualmente 💻
 
