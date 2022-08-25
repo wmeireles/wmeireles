@@ -1,7 +1,9 @@
 <h4 align="center">
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://lh3.googleusercontent.com/D8OWUF1nFmPNrXutTz-wIz05jzLaWdXCB-ITLqMCJjlLjESAveagGXjICn_CnfTQsDhcqj7CMKkRjZLkUa3CmMvzy8hXmbt7dL8x=w600)
+  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
+ 
+ 
 <h4>
 
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/willian.meireles.013/)
@@ -30,6 +32,8 @@ Gosto de Aprender e trocar conhecimento
   - TypeScript
   - Flutter
   - React
+ 
+ ![c633c20ede82f0e0ced7d570dbe3a1f3](https://lh3.googleusercontent.com/D8OWUF1nFmPNrXutTz-wIz05jzLaWdXCB-ITLqMCJjlLjESAveagGXjICn_CnfTQsDhcqj7CMKkRjZLkUa3CmMvzy8hXmbt7dL8x=w600)
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
