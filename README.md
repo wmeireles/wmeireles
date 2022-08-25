@@ -27,6 +27,7 @@ Olá, eu sou o Willian!
  
   - Kotlin
   - Flutter 
+  - Dart
       
  
   
