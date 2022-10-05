@@ -26,9 +26,9 @@ Me chamo Willian, tenho 21 anos e estou no último semestre de Analise de Desenv
 ## Tecnologias que estou estudando atualmente 💻
 
  
-  - Kotlin
-  - Flutter 
-  - Dart
+  -Kotlin
+  -Banco de dados ROOM
+  -API e uso de Retrofit
       
  
   
