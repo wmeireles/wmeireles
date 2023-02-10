@@ -21,14 +21,13 @@ Olá, eu sou o Willian!
 
 
  Olá, você que chegou até aqui, muito prazer! 
-Me chamo Willian, tenho 21 anos e estou no último semestre de Analise de Desenvolvimento de Sistemas. Eu uso linguagem Front End já uns 4 anos linguagens como HTML, CSS, Javascript, React. Já realizei alguns cursos online e projetos, no momento estou aprendo linguagem Mobile como Kotlin e Java e React Native,estou gostando muito! Trabalho como Analista de Service Desk, e estou correndo atrás do meu sonho de virar um grande desenvolvedor.😄
+Me chamo Willian, tenho 21 anos e sou formado em Analise de Desenvolvimento de sistema. Eu uso linguagem Front End já uns 4 anos linguagens como HTML, CSS, Javascript. Conhecimenho em Figma, UX/UI Design, Kanbam. Já realizei alguns cursos online e projetos, no momento estou aprendo linguagem Mobile como Kotlin ,estou gostando muito! Trabalho como Analista de Service Desk, e estou correndo atrás do meu sonho de virar um grande desenvolvedor.😄
 
 ## Tecnologias que estou estudando atualmente 💻
 
  
   -Kotlin
-  -Banco de dados ROOM
-  -API e uso de Retrofit
+  -UX/UI Design
       
  
   
@@ -57,3 +56,4 @@ Me chamo Willian, tenho 21 anos e estou no último semestre de Analise de Desenv
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
