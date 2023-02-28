@@ -95,11 +95,14 @@
 <li>
 <a href="https://www.linkedin.com/in/willian-meireles-01b607194/" target="_blank">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/wmeireles" alt=linkedin style="margin-bottom: 5px;"/>
- <a href="https://www.instagram.com/willian_meireles" target="_blank">
+</a>
+</li>
+	
+<li>
+<a href="https://www.instagram.com/willian_meireles" target="_blank">
 <img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/wmeireles" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
 	
 </ul>
 </div>
