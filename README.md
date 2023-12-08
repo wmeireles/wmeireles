@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello, I'm Willian Meireles </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Front-End+Developer;Mobile+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Front-End+Developer;Mobile+Developer" alt="Typing SVG" /></a>
 </p>
 
 
@@ -59,30 +59,6 @@
 
 -----
 
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/wmeireles">
-  <img src="https://github-readme-stats.vercel.app/api?username=wmeireles&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wmeireles&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="wmeireles"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
 ## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
@@ -115,17 +91,6 @@
 ## <b>Para a vida não existem barreiras!</b>
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
----
-
-<br>
  
-
-
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
