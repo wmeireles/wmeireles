@@ -86,11 +86,6 @@
 <br>
 <br>
 
-<div align='center'>
-
-## <b>Para a vida não existem barreiras!</b>
-
-</div>
 
  
 
