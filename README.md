@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello, I'm Willian Meireles </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Front-End+Developer;Mobile+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mobile+Developer;Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 
