@@ -1,4 +1,12 @@
-# Hello, I'm Willian Meireles ![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<h1 align="center">
+  Hello, I'm Willian Meireles 
+  <img 
+       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+       width="35"
+       alt="wave"
+/>
+</h1>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +18,8 @@
 
 ## About Me
 
-Olá! Sou um desenvolvedor mobile autodidata apaixonado. Atualmente, estou me aprofundando em Kotlin e sempre em busca de novos desafios. Tenho experiência em diversas linguagens e ferramentas, e estou aberto a oportunidades para expandir meu conhecimento e contribuir com projetos inovadores.
+Olá! Sou um Engenheiro de Software autodidata apaixonado, com foco em desenvolvimento mobile. Atualmente, estou me aprofundando em Kotlin, mas também possuo experiência em diversas linguagens e ferramentas. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir em projetos inovadores, entregando soluções robustas e escaláveis.
+
 
 ---
 
