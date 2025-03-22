@@ -52,7 +52,7 @@ Aqui estão alguns dos meus projetos que considero mais importantes:
 
 <!-- Estatísticas dinâmicas do GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wmeireles&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wmeireles&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ Aqui estão alguns dos meus projetos que considero mais importantes:
 Estou disponível para conectar e colaborar em novos projetos. Você pode me encontrar nos seguintes canais:
 - [LinkedIn](https://www.linkedin.com/in/willian-meireles-01b607194/)
 - [GitLab](https://gitlab.com/wmeireles1)
-- [Email](mailto:seuemail@exemplo.com) <!-- Atualize com seu email -->
+- [Email](mailto:willianmeireles2021@gmail.com) <!-- Atualize com seu email -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome Animation" style="max-width:100%;" />
