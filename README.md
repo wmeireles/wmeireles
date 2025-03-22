@@ -10,7 +10,7 @@
 
 ## About Me
 
-Olá! Sou um desenvolvedor mobile autodidata apaixonado. Atualmente estou me aprofundando em Kotlin e estou aberto a novas oportunidades de trabalho e desafios na área de desenvolvimento.
+Olá! Sou um desenvolvedor mobile autodidata apaixonado. Atualmente, estou me aprofundando em Kotlin e sempre em busca de novos desafios. Tenho experiência em diversas linguagens e ferramentas, e estou aberto a oportunidades para expandir meu conhecimento e contribuir com projetos inovadores.
 
 ---
 
@@ -25,7 +25,7 @@ Olá! Sou um desenvolvedor mobile autodidata apaixonado. Atualmente estou me apr
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Ferramentas & Softwares
+### Tools & Softwares
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -37,11 +37,33 @@ Olá! Sou um desenvolvedor mobile autodidata apaixonado. Atualmente estou me apr
 
 ---
 
-## Let's Connect
+## Featured Projects
 
+Aqui estão alguns dos meus projetos que considero mais importantes:
+- **[Projeto 1](#)**: Breve descrição do projeto, destacando as tecnologias utilizadas e os objetivos alcançados.
+- **[Projeto 2](#)**: Breve descrição do projeto, ressaltando desafios e soluções encontradas.
+- **[Projeto 3](#)**: Breve descrição do projeto, com foco nos resultados e aprendizados.
+
+*Sinta-se à vontade para explorar os links e conhecer um pouco mais sobre cada projeto!*
+
+---
+
+## GitHub Stats
+
+<!-- Estatísticas dinâmicas do GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wmeireles&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+---
+
+## Connect with Me
+
+Estou disponível para conectar e colaborar em novos projetos. Você pode me encontrar nos seguintes canais:
 - [LinkedIn](https://www.linkedin.com/in/willian-meireles-01b607194/)
 - [GitLab](https://gitlab.com/wmeireles1)
+- [Email](mailto:seuemail@exemplo.com) <!-- Atualize com seu email -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome Animation" style="max-width:100%;"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome Animation" style="max-width:100%;" />
 </p>
