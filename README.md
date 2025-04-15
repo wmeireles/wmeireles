@@ -1,78 +1,61 @@
-<h1 align="center">
-  Hello, I'm Willian Meireles 
-  <img 
-       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-       width="35"
-       alt="wave"
-/>
-</h1>
-
+<h1 align="center">Olá, eu sou o Willian 👨‍💻</h1>
+<h3 align="center">Fundador da <a href="https://wimeisoftwares.com" target="_blank">Wimei Softwares</a> | Engenheiro De Software | Criador de soluções digitais</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Mobile+Developer;Software+Engineer" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/willianmeireles" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/wmeireles" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://wimeisoftwares.com" target="_blank">
+    <img src="https://img.shields.io/badge/Site-WimeiSoftwares-0A66C2?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:willianmeireles2021@gmail.com">
+    <img src="https://img.shields.io/badge/E-mail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## About Me
+🎯 **Sobre mim**  
+Sou um apaixonado por tecnologia, atualmente atuando como Analista de Suporte N2 e também fundando minha própria software house, a **Wimei Softwares**, onde crio sistemas de gestão sob medida para pequenos e médios negócios.
 
-Olá! Sou um Engenheiro de Software autodidata apaixonado, com foco em desenvolvimento mobile. Atualmente, estou me aprofundando em Kotlin, mas também possuo experiência em diversas linguagens e ferramentas. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir em projetos inovadores, entregando soluções robustas e escaláveis.
+Sempre estou em busca de inovação, boas práticas de código e soluções que realmente melhorem a vida de quem usa.
+
+💼 **Projetos em destaque**
+- 📦 [WinStock](https://github.com/wmeireles) – Sistema de controle de estoque moderno e intuitivo.
+- 📅 WinAgendamentos – Agendamentos online para clínicas, salões e autônomos.
+- 💰 OrcaFácil – Sistema de orçamentos com foco em praticidade e agilidade.
+- 📊 Wimei Gestão – ERP completo para PMEs (em desenvolvimento).
+- 🛠️ PyAPI Tester – Ferramenta gráfica em Python para testar APIs com histórico e exportações.
+- 📲 App de Logs com Notificações Push (Kotlin + FastAPI) – Monitoramento em tempo real.
+
+🚀 Estou sempre evoluindo meus sistemas, focando em escalabilidade, design e experiência do usuário.
+
+---
+
+🧠 **Tecnologias**
+
+HTML • CSS • JavaScript • React.js • Bootstrap • Kotlin • Jetpack Compose
+Python • FastAPI • SQLAlchemy • PostgreSQL • Firebase • Docker • Linux
+Figma • Adobe XD • Git • GitHub • Vite • JWT Auth • REST API
 
 
 ---
 
-## Skills
+📣 **O que é a Wimei Softwares?**  
+A Wimei é minha empresa de tecnologia voltada para pequenos empreendedores. Desenvolvemos soluções como ERPs, sistemas de agendamento, controle de estoque, orçamentos e automações, com foco em visual moderno, facilidade de uso e baixo custo.
 
-### Languages
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools & Softwares
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-- ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+🌐 Site: [wimeisoftwares.com](https://wimeisoftwares.com)
 
 ---
 
-## Featured Projects
-
-Aqui estão alguns dos meus projetos que considero mais importantes:
-- **[Projeto 1](#)**: Breve descrição do projeto, destacando as tecnologias utilizadas e os objetivos alcançados.
-- **[Projeto 2](#)**: Breve descrição do projeto, ressaltando desafios e soluções encontradas.
-- **[Projeto 3](#)**: Breve descrição do projeto, com foco nos resultados e aprendizados.
-
-*Sinta-se à vontade para explorar os links e conhecer um pouco mais sobre cada projeto!*
+📩 **Quer conversar ou trocar ideia?**  
+Me chama no [LinkedIn](https://www.linkedin.com/in/willianmeireles) ou manda um e-mail para [willianmeireles2021@gmail.com](mailto:willianmeireles2021@gmail.com)
 
 ---
 
-## GitHub Stats
+> "Tecnologia sob medida para pequenas e médias empresas."  
+> — Wimei Softwares
 
-<!-- Estatísticas dinâmicas do GitHub -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wmeireles&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
----
-
-## Connect with Me
-
-Estou disponível para conectar e colaborar em novos projetos. Você pode me encontrar nos seguintes canais:
-- [LinkedIn](https://www.linkedin.com/in/willian-meireles-01b607194/)
-- [GitLab](https://gitlab.com/wmeireles1)
-- [Email](mailto:willianmeireles2021@gmail.com) <!-- Atualize com seu email -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome Animation" style="max-width:100%;" />
-</p>
