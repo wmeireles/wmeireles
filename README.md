@@ -1,61 +1,76 @@
-<h1 align="center">Olá, eu sou o Willian 👨‍💻</h1>
-<h3 align="center">Fundador da <a href="https://wimeisoftwares.com" target="_blank">Wimei Softwares</a> | Engenheiro De Software | Criador de soluções digitais</h3>
+<h1 align="center">👋 Olá, eu sou o Willian</h1>
+<h3 align="center">
+  Fundador da <a href="https://wimeisoftwares.com" target="_blank">Wimei Softwares</a> <br />
+  Engenheiro de Software | Criador de Soluções Digitais
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/willianmeireles" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/wmeireles" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://wimeisoftwares.com" target="_blank">
-    <img src="https://img.shields.io/badge/Site-WimeiSoftwares-0A66C2?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Site-Wimei%20Softwares-2b74e2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:willianmeireles2021@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-🎯 **Sobre mim**  
-Sou um apaixonado por tecnologia, atualmente atuando como Analista de Suporte N2 e também fundando minha própria software house, a **Wimei Softwares**, onde crio sistemas de gestão sob medida para pequenos e médios negócios.
+## 🚀 Sobre mim
 
-Sempre estou em busca de inovação, boas práticas de código e soluções que realmente melhorem a vida de quem usa.
+Sou **apaixonado por tecnologia e inovação**.  
+Atuo como **Engenheiro de Software** e **Analista de Suporte N2**, além de ser o fundador da **[Wimei Softwares](https://wimeisoftwares.com)** — uma software house que desenvolve sistemas e ferramentas sob medida para pequenos e médios negócios.
 
-💼 **Projetos em destaque**
-- 📦 [WinStock](https://github.com/wmeireles) – Sistema de controle de estoque moderno e intuitivo.
-- 📅 WinAgendamentos – Agendamentos online para clínicas, salões e autônomos.
-- 💰 OrcaFácil – Sistema de orçamentos com foco em praticidade e agilidade.
-- 📊 Wimei Gestão – ERP completo para PMEs (em desenvolvimento).
-- 🛠️ PyAPI Tester – Ferramenta gráfica em Python para testar APIs com histórico e exportações.
-- 📲 App de Logs com Notificações Push (Kotlin + FastAPI) – Monitoramento em tempo real.
+Acredito que tecnologia de verdade é aquela que **simplifica o dia a dia**, melhora processos e **gera resultados reais**.
 
-🚀 Estou sempre evoluindo meus sistemas, focando em escalabilidade, design e experiência do usuário.
+💡 Sempre em busca de boas práticas, arquitetura limpa e soluções escaláveis.
 
 ---
 
-🧠 **Tecnologias**
+## 🧠 Principais Tecnologias
 
-HTML • CSS • JavaScript • React.js • Bootstrap • Kotlin • Jetpack Compose
-Python • FastAPI • SQLAlchemy • PostgreSQL • Firebase • Docker • Linux
-Figma • Adobe XD • Git • GitHub • Vite • JWT Auth • REST API
+**Frontend:**  
+HTML • CSS • JavaScript • React.js • Bootstrap • Vite • Figma 
 
+**Backend:**  
+Python • FastAPI • SQLAlchemy • PostgreSQL • Docker •   
 
----
+**Mobile:**  
+Kotlin • Flutter • Firebase • React Native  
 
-📣 **O que é a Wimei Softwares?**  
-A Wimei é minha empresa de tecnologia voltada para pequenos empreendedores. Desenvolvemos soluções como ERPs, sistemas de agendamento, controle de estoque, orçamentos e automações, com foco em visual moderno, facilidade de uso e baixo custo.
-
-🌐 Site: [wimeisoftwares.com](https://wimeisoftwares.com)
-
----
-
-📩 **Quer conversar ou trocar ideia?**  
-Me chama no [LinkedIn](https://www.linkedin.com/in/willianmeireles) ou manda um e-mail para [willianmeireles2021@gmail.com](mailto:willianmeireles2021@gmail.com)
+**Outros:**  
+Git • GitHub • JWT Auth • REST API • Automação de Processos
 
 ---
 
-> "Tecnologia sob medida para pequenas e médias empresas."  
+## 🏢 Wimei Softwares
+
+A **Wimei Softwares** nasceu com o propósito de **tornar a tecnologia acessível e eficiente** para pequenos empreendedores.
+
+💼 Desenvolvemos sistemas como:  
+- ERPs e painéis administrativos  
+- Plataformas de agendamento online  
+- Sistemas de controle de estoque e orçamentos  
+- Integrações e automações sob demanda  
+
+🎨 Com foco em **design intuitivo, performance e baixo custo de manutenção**.
+
+🌐 Saiba mais: [wimeisoftwares.com](https://wimeisoftwares.com)
+
+---
+
+## 🤝 Vamos conversar?
+
+Se quiser trocar uma ideia sobre tecnologia, inovação ou projetos:  
+📫 [willianmeireles2021@gmail.com](mailto:willianmeireles2021@gmail.com)  
+💬 [LinkedIn](https://www.linkedin.com/in/willianmeireles)
+
+---
+
+> 💬 “Tecnologia sob medida para pequenas e médias empresas.”  
 > — Wimei Softwares
-
