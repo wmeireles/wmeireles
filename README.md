@@ -73,15 +73,6 @@ Acredito que tecnologia de verdade é aquela que **simplifica o dia a dia**, mel
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wmeireles&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
-</div>
-
----
 
 ## 📈 Contribuições
 
