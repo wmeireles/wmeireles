@@ -21,6 +21,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wmeireles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmeireles&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmeireles&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmeireles&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
 ## 🚀 Sobre mim
 
 Sou **apaixonado por tecnologia e inovação**.  
@@ -34,17 +51,48 @@ Acredito que tecnologia de verdade é aquela que **simplifica o dia a dia**, mel
 
 ## 🧠 Principais Tecnologias
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,kotlin,flutter,docker,postgres,git,github,figma,firebase" />
+</div>
+
 **Frontend:**  
-HTML • CSS • JavaScript • React.js • Bootstrap • Vite • Figma 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend:**  
-Python • FastAPI • SQLAlchemy • PostgreSQL • Docker •   
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Mobile:**  
-Kotlin • Flutter • Firebase • React Native  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
-**Outros:**  
-Git • GitHub • JWT Auth • REST API • Automação de Processos
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wmeireles&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+---
+
+## 📈 Contribuições
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wmeireles&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wmeireles&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wmeireles&theme=tokyonight" />
+</div>
 
 ---
 
@@ -72,5 +120,9 @@ Se quiser trocar uma ideia sobre tecnologia, inovação ou projetos:
 
 ---
 
-> 💬 “Tecnologia sob medida para pequenas e médias empresas.”  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wmeireles&color=blue&style=flat-square" />
+</div>
+
+> 💬 "Tecnologia sob medida para pequenas e médias empresas."  
 > — Wimei Softwares
