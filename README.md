@@ -56,23 +56,6 @@ Acredito que a verdadeira tecnologia é aquela que simplifica o dia a dia e gera
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wmeireles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmeireles&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmeireles&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmeireles&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
 ## 📈 Contribuições
 
 <div align="center">
